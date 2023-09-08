@@ -5,6 +5,7 @@ Python application is a simple graphical user interface (GUI) built using the tk
 Features:
 
 Calculator: Click the "CALCULATOR" button to open a calculator project.
+
 Converter: Click the "CONVERTER" button to open a unit converter project.
 
 Project Structure:
